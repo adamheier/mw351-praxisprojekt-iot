@@ -11,14 +11,12 @@
             "id": "e50045c6221e1084",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PW.md",
-                "mode": "source",
-                "source": false
+                "file": "veranstaltungsunterlagen/MW350_Praxisprojekt-IoT_Zugangsdaten_W26.pdf"
               },
-              "icon": "lucide-file",
-              "title": "PW"
+              "icon": "lucide-file-text",
+              "title": "MW350_Praxisprojekt-IoT_Zugangsdaten_W26"
             }
           }
         ]
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PW.md",
+                "file": "veranstaltungsunterlagen/MW350_Praxisprojekt-IoT_Zugangsdaten_W26.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PW.md",
+                "file": "veranstaltungsunterlagen/MW350_Praxisprojekt-IoT_Zugangsdaten_W26.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PW.md",
+                "file": "veranstaltungsunterlagen/MW350_Praxisprojekt-IoT_Zugangsdaten_W26.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,8 +197,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e50045c6221e1084",
+  "active": "ecbf892ee2d18446",
   "lastOpenFiles": [
-    "PW.md"
+    "veranstaltungsunterlagen/MW350_Praxisprojekt-IoT_Zugangsdaten_W26.pdf.sb-9dc2a1f5-dQ2ZWh",
+    "veranstaltungsunterlagen/MW350_Praxisprojekt-IoT_Einfuhrungsveranstaltung_W26.pdf",
+    "veranstaltungsunterlagen/MW350_Praxisprojekt-IoT_Einfuhrungsveranstaltung_W26.pdf.sb-9dc2a1f5-rp0dbq",
+    "veranstaltungsunterlagen/MW350_Praxisprojekt-IoT_Zugangsdaten_W26.pdf",
+    "veranstaltungsunterlagen/ELSYS ERS CO2 Factsheet (EN).pdf",
+    "PW.md",
+    "veranstaltungsunterlagen/DataSheet_Professional_II_3_100_DE.pdf",
+    "veranstaltungsunterlagen/Datasheet_Milesight_WTS506_Weather Station-1.pdf",
+    "veranstaltungsunterlagen/MW350_Praxisprojekt-IoT_Statusbericht_Gruppe-x_W26.pptx",
+    "veranstaltungsunterlagen/kicagem-iot-service.zip",
+    "veranstaltungsunterlagen",
+    "untitled folder"
   ]
 }
