@@ -1,0 +1,20 @@
+{
+  "aiRenameSuggestion" : "2026-10-26_hochschule-gebaeudeleit-rcu-anbindung_kickoff",
+  "durationSeconds" : 1955.3909375,
+  "fileSizeBytes" : 58843520,
+  "hasAICleanup" : false,
+  "hasSummary" : true,
+  "microphoneRecorded" : true,
+  "modelId" : "parakeet-tdt-v3",
+  "origin" : "recording",
+  "originalTranscriptPreserved" : true,
+  "recordedAt" : "2026-10-26T08:52:07Z",
+  "recordingId" : "67DDAE61-735D-4B4B-B95E-48F3FEA8D3D8",
+  "resolvedLanguageCode" : "auto",
+  "schemaVersion" : 6,
+  "segmentCount" : 5131,
+  "sourceSeparationUsed" : false,
+  "sttEngine" : "parakeet",
+  "systemAudioRecorded" : true,
+  "transcriptCharCount" : 31001
+}
